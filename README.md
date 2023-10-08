@@ -11,4 +11,3 @@
 <a href="https://azizmmagdy.medium.com/">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=azizmmagdy&theme=dark" />
 </a>
----
